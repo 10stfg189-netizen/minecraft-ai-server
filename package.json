@@ -1,0 +1,12 @@
+{
+"name": "minecraft-ai-server",
+"version": "1.0.0",
+"description": "Server penghubung AI Minecraft Bedrock",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"engines": {
+"node": ">=18"
+}
+}
